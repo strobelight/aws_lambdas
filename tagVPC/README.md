@@ -4,7 +4,7 @@
     update_vpc_tags - Handles a tag change event to vpc.
 
 ## FILE
-    /Volumes/src/projects/aws_scripts/tag_vpc/update_vpc_tags.py
+    tag_vpc/update_vpc_tags.py
 
 ## DESCRIPTION
     If tag "Name" and/or "VPCname" changed, then set VPCname to Name. In addition,
