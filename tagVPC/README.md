@@ -4,7 +4,7 @@
     update_vpc_tags - Handles a tag change event to vpc.
 
 ## FILE
-    tag_vpc/update_vpc_tags.py
+    tagVPC/update_vpc_tags.py
 
 ## DESCRIPTION
     If tag "Name" and/or "VPCname" changed, then set VPCname to Name. In addition,
